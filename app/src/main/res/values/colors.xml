@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@color/indigo_500</color>
+    <color name="primary_dark">@color/indigo_700</color>
+    <color name="accent">@color/pink_A200</color>
+    <color name="text_primary">#D9FFFFFF</color>
+    <color name="text_secondary">#D9000000</color>
+</resources>
